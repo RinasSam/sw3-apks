@@ -50,3 +50,5 @@ Step 5: Click on SW3 app.
   
 Step 6: There should be a ".apks" file where you told SAI to backup to. That file is all what we need. You can send it via GDrive or any preferred method.  
   
+  
+Thanks.
